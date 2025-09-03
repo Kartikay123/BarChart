@@ -1,7 +1,3 @@
-.App {
-  background: linear-gradient(135deg, #fdfcfb, #f8f6f1);
-}
-
 .chart-canvas {
   background-color: #fafafa; /* optional */
   border-radius: 6px; /* optional rounded corners */

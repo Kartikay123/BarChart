@@ -3,7 +3,7 @@ import BarChart from "./components/BarCharts";
 
 function App() {
   return (
-    <div className=" App flex items-center justify-center min-h-screen">
+    <div className="flex items-center justify-center min-h-screen ">
       <BarChart />
     </div>
   );
